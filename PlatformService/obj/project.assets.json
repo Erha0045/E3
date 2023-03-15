@@ -3970,11 +3970,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/erhanbasaran/Desktop/Dot Net Les Jackson/PlatformService/PlatformService.csproj",
+      "projectUniqueName": "/Users/erhanbasaran/Desktop/DotNetLesJackson/E3/PlatformService/PlatformService.csproj",
       "projectName": "PlatformService",
-      "projectPath": "/Users/erhanbasaran/Desktop/Dot Net Les Jackson/PlatformService/PlatformService.csproj",
+      "projectPath": "/Users/erhanbasaran/Desktop/DotNetLesJackson/E3/PlatformService/PlatformService.csproj",
       "packagesPath": "/Users/erhanbasaran/.nuget/packages/",
-      "outputPath": "/Users/erhanbasaran/Desktop/Dot Net Les Jackson/PlatformService/obj/",
+      "outputPath": "/Users/erhanbasaran/Desktop/DotNetLesJackson/E3/PlatformService/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/erhanbasaran/.nuget/NuGet/NuGet.Config"

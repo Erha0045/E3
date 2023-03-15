@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wWGzwvmI6DEsl8TcshAV4lSGLoLTG+DVk1qeSeOssnX/RoSZEeksk8TFWcVQ01v0YqJlAz4HrCgTvsDCZBKeMg==",
+  "dgSpecHash": "dPmpsgp7if1YSxbKPU0eY3CpeeLDQD53PaEBXfldMmc8nBdAsE1uXrvwlauX1wPVTE+lMqQKkwmfOhKMvspI/Q==",
   "success": true,
-  "projectFilePath": "/Users/erhanbasaran/Desktop/Dot Net Les Jackson/PlatformService/PlatformService.csproj",
+  "projectFilePath": "/Users/erhanbasaran/Desktop/DotNetLesJackson/E3/PlatformService/PlatformService.csproj",
   "expectedPackageFiles": [
     "/Users/erhanbasaran/.nuget/packages/automapper/12.0.0/automapper.12.0.0.nupkg.sha512",
     "/Users/erhanbasaran/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.0/automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
