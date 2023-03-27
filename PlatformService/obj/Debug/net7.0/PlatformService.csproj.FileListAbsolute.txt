@@ -156,3 +156,4 @@
 /Users/erhanbasaran/Desktop/DotNetLesJackson/E3/PlatformService/obj/Debug/net7.0/PlatformService.pdb
 /Users/erhanbasaran/Desktop/DotNetLesJackson/E3/PlatformService/obj/Debug/net7.0/PlatformService.genruntimeconfig.cache
 /Users/erhanbasaran/Desktop/DotNetLesJackson/E3/PlatformService/obj/Debug/net7.0/ref/PlatformService.dll
+/Users/erhanbasaran/Desktop/DotNetLesJackson/E3/PlatformService/bin/Debug/net7.0/appsettings.Production.json

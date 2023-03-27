@@ -10,7 +10,7 @@ namespace PlatformService.Controllers
     [Route("api/[controller]")]
     [ApiController]
     public class PlatformsController : ControllerBase
-    {        
+    {
         private readonly IPlatformRepo _repository;
         private readonly IMapper _mapper;
         private readonly ICommandDataClient _commandDataClient;

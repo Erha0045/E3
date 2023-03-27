@@ -11,3 +11,6 @@
 # Built Visual Studio Code Extensions
 *.vsix
 .ds_store
+PlatformService/appsettings.Production.json
+PlatformService/bin/Debug/net7.0/appsettings.Production.json
+
